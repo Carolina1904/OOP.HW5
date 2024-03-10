@@ -2,7 +2,7 @@ package HomeTask5.controller;
 
 import HomeTask5.model.*;
 import HomeTask5.service.DataService;
-import HomeTask5.view.Main;
+import HomeTask5.view.StudentView;
 
 import java.util.List;
 

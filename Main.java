@@ -1,4 +1,4 @@
-package HomeTask5.view;
+package HomeTask5;
 
 import HomeTask5.controller.Controller;
 import HomeTask5.model.StudentGroup;
